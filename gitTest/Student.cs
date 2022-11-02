@@ -8,6 +8,6 @@ namespace gitTest
 {
     internal class Student
     {
-        public int Id { get; set; }
+        public int ID { get; set; }
     }
 }
